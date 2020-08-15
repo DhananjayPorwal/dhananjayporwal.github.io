@@ -1,0 +1,242 @@
+.u-section-1 {background-image: url("images/astrology1.jpg"); background-position: 50% 50%; min-height: 768px}
+.u-section-1 .u-text-1 {font-weight: 300; font-size: 4.5rem; margin: 610px calc(((100% - 1140px) / 2) + 580px) 0 calc(((100% - 1140px) / 2))} 
+
+@media (max-width: 1199px){ .u-section-1 {min-height: 601px}
+.u-section-1 .u-text-1 {margin-top: 60px; margin-right: calc(((100% - 940px) / 2) + 380px); margin-left: calc(((100% - 940px) / 2))} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-1 {margin-right: calc(((100% - 720px) / 2) + 160px); margin-left: calc(((100% - 720px) / 2))} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {font-size: 3.75rem; margin-left: calc(((100% - 540px) / 2)); margin-right: calc(((100% - 540px) / 2))} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {margin-right: calc(((100% - 340px) / 2)); margin-left: calc(((100% - 340px) / 2))} }.u-section-2 {background-image: linear-gradient(to right, #1843b6, #df69ff)}
+.u-section-2 .u-sheet-1 {min-height: 419px}
+.u-section-2 .u-layout-wrap-1 {margin: 20px auto 20px 0}
+.u-section-2 .u-layout-cell-1 {min-height: 380px}
+.u-section-2 .u-container-layout-1 {padding: 60px 30px}
+.u-section-2 .u-icon-1 {height: 64px; width: 64px; margin: 0 auto}
+.u-section-2 .u-text-1 {margin: 30px 0 0}
+.u-section-2 .u-text-2 {font-size: 0.875rem; margin: 20px 0 0}
+.u-section-2 .u-layout-cell-2 {min-height: 380px; background-image: none}
+.u-section-2 .u-container-layout-2 {padding: 60px 30px}
+.u-section-2 .u-icon-2 {height: 64px; width: 64px; margin: 0 auto}
+.u-section-2 .u-text-3 {margin: 30px 0 0}
+.u-section-2 .u-text-4 {font-size: 0.875rem; margin: 20px 0 0}
+.u-section-2 .u-layout-cell-3 {min-height: 380px; background-image: none}
+.u-section-2 .u-container-layout-3 {padding: 60px 30px}
+.u-section-2 .u-icon-3 {height: 64px; width: 64px; margin: 0 auto}
+.u-section-2 .u-text-5 {margin: 30px 0 0}
+.u-section-2 .u-text-6 {font-size: 0.875rem; margin: 20px 0 0}
+.u-section-2 .u-layout-cell-4 {min-height: 380px; background-image: none}
+.u-section-2 .u-container-layout-4 {padding: 60px 30px}
+.u-section-2 .u-icon-4 {height: 64px; width: 64px; margin: 0 auto}
+.u-section-2 .u-text-7 {margin: 30px 0 0}
+.u-section-2 .u-text-8 {font-size: 0.875rem; margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 352px}
+.u-section-2 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-2 .u-layout-cell-1 {min-height: 313px}
+.u-section-2 .u-layout-cell-2 {min-height: 313px}
+.u-section-2 .u-layout-cell-3 {min-height: 313px}
+.u-section-2 .u-layout-cell-4 {min-height: 313px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 239px}
+.u-section-2 .u-layout-cell-1 {min-height: 100px}
+.u-section-2 .u-container-layout-1 {padding-top: 30px; padding-bottom: 30px}
+.u-section-2 .u-layout-cell-2 {min-height: 100px}
+.u-section-2 .u-container-layout-2 {padding-top: 30px; padding-bottom: 30px}
+.u-section-2 .u-layout-cell-3 {min-height: 100px}
+.u-section-2 .u-container-layout-3 {padding-top: 30px; padding-bottom: 30px}
+.u-section-2 .u-layout-cell-4 {min-height: 100px}
+.u-section-2 .u-container-layout-4 {padding-top: 30px; padding-bottom: 30px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 339px}
+.u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-4 {padding-left: 10px; padding-right: 10px} }.u-section-3 {background-image: linear-gradient(to right, #1843b6, #df69ff)}
+.u-section-3 .u-sheet-1 {min-height: 631px}
+.u-section-3 .u-layout-wrap-1 {width: 1286px; margin: 48px auto 2px -12px}
+.u-section-3 .u-layout-cell-1 {min-height: 581px}
+.u-section-3 .u-container-layout-1 {padding: 30px}
+.u-section-3 .u-text-1 {line-height: 1.2; font-size: 3.75rem; font-weight: 300; margin: 56px 0 0}
+.u-section-3 .u-text-2 {font-size: 1rem; line-height: 1.6; margin: 20px 0 0}
+.u-section-3 .u-image-1 {min-height: 581px; background-image: url("images/Untitled-1.png"); background-position: 50% 16.29%}
+.u-section-3 .u-container-layout-2 {padding: 30px 0 0 30px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-sheet-1 {min-height: 624px}
+.u-section-3 .u-layout-wrap-1 {width: 987px; margin-left: 3px}
+.u-section-3 .u-layout-cell-1 {min-height: 574px}
+.u-section-3 .u-image-1 {min-height: 574px} }
+
+@media (max-width: 991px){ .u-section-3 {min-height: 7px}
+.u-section-3 .u-layout-wrap-1 {width: 720px; margin-left: 0}
+.u-section-3 .u-layout-cell-1 {min-height: 100px}
+.u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-text-1 {font-size: 2.25rem}
+.u-section-3 .u-image-1 {min-height: 326px} }
+
+@media (max-width: 767px){ .u-section-3 .u-layout-wrap-1 {width: 540px}
+.u-section-3 .u-text-1 {font-size: 3.75rem}
+.u-section-3 .u-image-1 {min-height: 489px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px} }
+
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 897px}
+.u-section-3 .u-layout-wrap-1 {width: 340px; margin-top: 50px; margin-bottom: 0; margin-left: 50px}
+.u-section-3 .u-text-1 {font-size: 3rem}
+.u-section-3 .u-image-1 {min-height: 308px} }.u-section-4 {background-image: none}
+.u-section-4 .u-sheet-1 {min-height: 594px}
+.u-section-4 .u-text-1 {font-size: 3.75rem; font-weight: 300; margin: 61px 545px 0 0}
+.u-section-4 .u-text-2 {font-size: 1rem; font-weight: 400; margin: 20px 597px 0 0}
+.u-section-4 .u-layout-wrap-1 {margin: 36px auto 50px 0}
+.u-section-4 .u-image-1 {background-image: url("images/Astrology-Zodiac-Calendar-square.jpg"); min-height: 318px; background-position: 50% 50%}
+.u-section-4 .u-image-2 {background-image: url("images/dreamstime_s_31949081.jpg"); min-height: 318px; background-position: 50% 50%}
+.u-section-4 .u-image-3 {background-image: url("images/new-age--astrology--cosmology--and-star-map-10092097-5aeb107deb97de0039036a4e.jpg"); min-height: 318px; background-position: 50% 50%}
+.u-section-4 .u-image-4 {background-image: url("images/matrimony-com-acquires-stake-in-vedic-astrology-company-astro.jpg"); min-height: 318px; background-position: 50% 50%} 
+
+@media (max-width: 1199px){ .u-section-4 .u-sheet-1 {min-height: 538px}
+.u-section-4 .u-text-1 {margin-right: 345px}
+.u-section-4 .u-text-2 {margin-right: 397px}
+.u-section-4 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-4 .u-image-1 {min-height: 262px}
+.u-section-4 .u-image-2 {min-height: 262px}
+.u-section-4 .u-image-3 {min-height: 262px}
+.u-section-4 .u-image-4 {min-height: 262px} }
+
+@media (max-width: 991px){ .u-section-4 .u-sheet-1 {min-height: 1078px}
+.u-section-4 .u-text-1 {margin-right: 125px}
+.u-section-4 .u-text-2 {margin-right: 177px}
+.u-section-4 .u-image-1 {min-height: 401px}
+.u-section-4 .u-image-2 {min-height: 401px}
+.u-section-4 .u-image-3 {min-height: 401px}
+.u-section-4 .u-image-4 {min-height: 401px} }
+
+@media (max-width: 767px){ .u-section-4 .u-sheet-1 {min-height: 2082px}
+.u-section-4 .u-text-1 {margin-right: 0}
+.u-section-4 .u-text-2 {margin-right: 0}
+.u-section-4 .u-image-1 {min-height: 602px}
+.u-section-4 .u-image-2 {min-height: 602px}
+.u-section-4 .u-image-3 {min-height: 602px}
+.u-section-4 .u-image-4 {min-height: 602px} }
+
+@media (max-width: 575px){ .u-section-4 .u-sheet-1 {min-height: 1413px}
+.u-section-4 .u-image-1 {min-height: 379px}
+.u-section-4 .u-image-2 {min-height: 379px}
+.u-section-4 .u-image-3 {min-height: 379px}
+.u-section-4 .u-image-4 {min-height: 379px} }.u-section-5 {min-height: 753px; background-image: url("images/bg.jpg"); background-position: 50% 50%}
+.u-section-5 .u-layout-wrap-1 {margin: 0 auto 0 0}
+.u-section-5 .u-layout-cell-1 {min-height: 753px; background-image: none}
+.u-section-5 .u-container-layout-1 {padding: 30px 30px 30px 60px}
+.u-section-5 .u-text-1 {letter-spacing: 0; text-transform: none; margin: 207px 0 0}
+.u-section-5 .u-text-2 {font-size: 3.75rem; letter-spacing: 0; font-weight: 700; text-transform: none; margin: 20px 0 0}
+.u-section-5 .u-text-3 {margin: 20px 0 0}
+.u-section-5 .u-image-1 {min-height: 753px; background-image: url("images/porcelain-palmistry-hand-astrology-fortune_1_6774c09585785907fa6d183c73c569f1.jpg"); background-position: 50% 50%}
+.u-section-5 .u-container-layout-2 {padding: 30px}
+.u-section-5 .u-layout-cell-3 {min-height: 507px; background-image: none}
+.u-section-5 .u-container-layout-3 {padding: 40px 50px}
+.u-section-5 .u-icon-1 {height: 42px; width: 42px; margin: 0 auto 0 0}
+.u-section-5 .u-text-4 {font-size: 1.5rem; font-weight: 300; margin: 20px 0 0}
+.u-section-5 .u-layout-cell-4 {min-height: 246px; background-image: none}
+.u-section-5 .u-container-layout-4 {padding: 30px 40px}
+.u-section-5 .u-text-5 {letter-spacing: 0; font-size: 3.75rem; font-weight: 300; font-family: Roboto, sans-serif; margin: 34px 0 0}
+.u-section-5 .u-social-icons-1 {white-space: nowrap; height: 32px; min-height: 16px; width: 200px; min-width: 120px; margin: 20px auto 0 0}
+.u-section-5 .u-icon-2 {height: 100%}
+.u-section-5 .u-icon-3 {height: 100%}
+.u-section-5 .u-icon-4 {height: 100%}
+.u-section-5 .u-icon-5 {height: 100%}
+.u-section-5 .u-icon-6 {height: 100%} 
+
+@media (max-width: 1199px){ .u-section-5 {min-height: 489px}
+.u-section-5 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-5 .u-layout-cell-1 {min-height: 621px}
+.u-section-5 .u-image-1 {min-height: 621px}
+.u-section-5 .u-layout-cell-3 {min-height: 418px}
+.u-section-5 .u-layout-cell-4 {min-height: 203px}
+.u-section-5 .u-social-icons-1 {width: 186px} }
+
+@media (max-width: 991px){ .u-section-5 {min-height: 578px}
+.u-section-5 .u-layout-cell-1 {min-height: 100px}
+.u-section-5 .u-container-layout-1 {padding-left: 30px}
+.u-section-5 .u-image-1 {min-height: 510px}
+.u-section-5 .u-layout-cell-3 {min-height: 100px}
+.u-section-5 .u-container-layout-3 {padding: 30px}
+.u-section-5 .u-layout-cell-4 {min-height: 100px}
+.u-section-5 .u-container-layout-4 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-5 {min-height: 733px}
+.u-section-5 .u-layout-cell-1 {min-height: 290px}
+.u-section-5 .u-container-layout-1 {padding-right: 10px; padding-left: 10px}
+.u-section-5 .u-text-1 {margin-top: 0}
+.u-section-5 .u-image-1 {min-height: 765px}
+.u-section-5 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-5 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-5 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
+.u-section-5 .u-text-5 {font-size: 1.5} }
+
+@media (max-width: 575px){ .u-section-5 {min-height: 450px}
+.u-section-5 .u-layout-cell-1 {min-height: 100px}
+.u-section-5 .u-image-1 {min-height: 482px}
+.u-section-5 .u-text-5 {font-size: 1.5rem} }.u-section-6 {background-image: url("images/Untitled1.png"); background-position: 50% 50%}
+.u-section-6 .u-sheet-1 {min-height: 772px}
+.u-section-6 .u-layout-wrap-1 {width: 983px; margin: 125px 34px 60px auto}
+.u-section-6 .u-image-1 {min-height: 607px; background-image: url("images/muhurt-or-muhurtam-or-auspicious-time-250x250.png"); background-position: 50% 50%}
+.u-section-6 .u-container-layout-1 {padding: 0}
+.u-section-6 .u-layout-cell-2 {min-height: 607px}
+.u-section-6 .u-container-layout-2 {padding: 30px}
+.u-section-6 .u-text-1 {font-size: 3.75rem; font-weight: 300; margin: 252px 0 0}
+.u-section-6 .u-text-2 {letter-spacing: 0; font-size: 1rem; margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-6 .u-sheet-1 {min-height: 502px}
+.u-section-6 .u-layout-wrap-1 {width: 940px; margin-right: 0}
+.u-section-6 .u-image-1 {min-height: 580px}
+.u-section-6 .u-layout-cell-2 {min-height: 580px} }
+
+@media (max-width: 991px){ .u-section-6 .u-sheet-1 {min-height: 353px}
+.u-section-6 .u-layout-wrap-1 {width: 720px}
+.u-section-6 .u-image-1 {min-height: 444px}
+.u-section-6 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-6 .u-sheet-1 {min-height: 697px}
+.u-section-6 .u-layout-wrap-1 {width: 540px}
+.u-section-6 .u-image-1 {min-height: 666px; order: 1}
+.u-section-6 .u-layout-cell-2 {order: 0}
+.u-section-6 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-6 .u-text-1 {margin-top: 0} }
+
+@media (max-width: 575px){ .u-section-6 .u-sheet-1 {min-height: 426px}
+.u-section-6 .u-layout-wrap-1 {width: 340px}
+.u-section-6 .u-image-1 {min-height: 419px} }.u-section-7 {min-height: 600px}
+.u-section-7 .u-layout-wrap-1 {margin: 0 auto 0 0}
+.u-section-7 .u-layout-cell-1 {min-height: 600px; background-image: none}
+.u-section-7 .u-container-layout-1 {padding: 30px 50px}
+.u-section-7 .u-text-1 {font-size: 2.25rem; margin: 120px -38px 0 0}
+.u-section-7 .u-layout-cell-2 {min-height: 600px; background-image: none}
+.u-section-7 .u-container-layout-2 {padding: 30px}
+.u-section-7 .u-text-2 {font-size: 2.25rem; font-weight: 300; margin: 0}
+.u-section-7 .u-image-1 {min-height: 600px; background-image: url("images/pexelsphoto3309268.jpeg"); background-position: 50% 50%}
+.u-section-7 .u-container-layout-3 {padding: 30px} 
+
+@media (max-width: 1199px){ .u-section-7 {min-height: 495px}
+.u-section-7 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-7 .u-layout-cell-1 {min-height: 495px}
+.u-section-7 .u-text-1 {margin-right: 0}
+.u-section-7 .u-layout-cell-2 {min-height: 495px}
+.u-section-7 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-7 .u-text-2 {font-size: 3rem}
+.u-section-7 .u-image-1 {min-height: 495px} }
+
+@media (max-width: 991px){ .u-section-7 {min-height: 379px}
+.u-section-7 .u-layout-cell-1 {min-height: 100px}
+.u-section-7 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-7 .u-layout-cell-2 {min-height: 435px}
+.u-section-7 .u-text-2 {font-size: 2.25rem}
+.u-section-7 .u-image-1 {min-height: 379px} }
+
+@media (max-width: 767px){ .u-section-7 {min-height: 953px}
+.u-section-7 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-7 .u-layout-cell-2 {min-height: 100px}
+.u-section-7 .u-text-2 {font-size: 3.75rem}
+.u-section-7 .u-image-1 {min-height: 853px}
+.u-section-7 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-7 {min-height: 637px}
+.u-section-7 .u-image-1 {min-height: 537px} }
